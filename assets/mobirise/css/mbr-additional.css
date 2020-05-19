@@ -1508,11 +1508,6 @@ section.lazy-placeholder:after {
 .cid-rYP8NI4gLP .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 1024px) {
-  .cid-rYP8NI4gLP .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
 .cid-rYP8NI4gLP .collapsed button.navbar-toggler {
   display: block;
 }
